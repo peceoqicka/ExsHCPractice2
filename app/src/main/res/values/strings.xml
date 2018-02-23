@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">HCPractice2</string>
+    <string-array name="tabs_pra">
+        <item>线性渐变</item>
+        <item>径向渐变</item>
+        <item>扫描渐变</item>
+        <item>ColorFilter</item>
+        <item>Xfermode</item>
+        <item>StrokeCap</item>
+        <item>ShadowLayer</item>
+        <item>MaskFilter</item>
+        <item>FillPath</item>
+    </string-array>
+</resources>
